@@ -2,7 +2,7 @@
 
 ### Demo
 
-[![Watch Demo](/demo.mp4))](/demo.mp4)
+[![Watch Demo](/demo.mp4)](/demo.mp4)
 
 ### Why?
 
