@@ -2,7 +2,7 @@
 
 ### Demo
 
-[![Watch Demo](/demo.mp4)](/demo.mp4)
+https://github.com/user-attachments/assets/4d7eb411-2418-40ee-8726-d3a4c9783afe
 
 ### Why?
 
